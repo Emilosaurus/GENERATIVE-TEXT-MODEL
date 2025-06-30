@@ -76,7 +76,7 @@ GENERATIVE-TEXT-MODEL/
 
 ## 💡 Example Output
 
-📝 Enter your topic or prompt: *The future of AI is*  
+📝 Enter your topic or prompt: *The impact of AI on Humans*  
 🚀 Loading model `EleutherAI/gpt-neo-2.7B` on CUDA...
 
 ---
