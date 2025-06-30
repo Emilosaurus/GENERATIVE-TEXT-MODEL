@@ -81,7 +81,25 @@ GENERATIVE-TEXT-MODEL/
 
 ---
 
-    There are a lot of people out there who believe that artificial intelligence is going to be the end of mankind. This belief seems to be supported by a few people who are willing to admit that they don’t know everything about AI but have some strong opinions about it. In this article, I want to address a few questions that will help us to understand the impact of AI on humanity.Before I get into the discussion, I want to clarify something: I am not a “humanity optimist.” I believe that humanity will always have problems and that we will always face challenges. It’s just that many of these problems are not because of technological advances. What I am trying to do here is to show that there is an exponential growth in the problem space that is caused by technological advances. If we look at history, we see that once a problem is solved with technology, the same problem reappears somewhere else. For example, you can find someone who thinks that AI is going to be the end of mankind in every country around the world. I would like to challenge this individual to find another country where the same problem occurs. Let’s start with the question: How big is the problem space?
+    The Impact of AI on Humans  There are a lot of people out there
+    who believe that artificial intelligence is going to be the end of
+    mankind. This belief seems to be supported by a few people who are
+    willing to admit that they don’t know everything about AI but have
+    some strong opinions about it. In this article, I want to address
+    a few questions that will help us to understand the impact of AI
+    on humanity.  Before I get into the discussion, I want to clarify
+    something: I am not a “humanity optimist.” I believe that humanity
+    will always have problems and that we will always face challenges.
+    It’s just that many of these problems are not because of
+    technological advances. What I am trying to do here is to show
+    that there is an exponential growth in the problem space that is
+    caused by technological advances. If we look at history, we see
+    that once a problem is solved with technology, the same problem
+    reappears somewhere else. For example, you can find someone who
+    thinks that AI is going to be the end of mankind in every country
+    around the world. I would like to challenge this individual to
+    find another country where the same problem occurs.  Let’s start
+    with the question: How big is the problem space?
     
 ---
 
